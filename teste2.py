@@ -1,1 +1,1 @@
-print("Testando o GIT bfiusdbfi")
+print("Testando o GIT")
